@@ -1,0 +1,47 @@
+h1{
+    color: orangered;
+    text-align: center;
+    background-color: black;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.span-html{
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+body{
+    background:url(../image/naturaleza.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+h2{
+    color: orangered;
+    text-align: center;
+    background-color: rgb(82, 10, 10);
+}
+p{
+    color:orangered;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(0, 148, 49, 0.421);
+    backface-visibility: hidden;
+}
+td{
+    background-color:cornsilk;
+    font-size: 25px;
+    color: black;
+    opacity: 1;
+}
+tr{
+    
+    color: white;
+    background-color: rgba(137, 43, 226, 0.704);
+}
+table{
+    opacity: 1;
+}
